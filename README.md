@@ -9,3 +9,9 @@ a chrome extension that replaces the nft avatars on twitter with subway jared
   - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
 4. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 5. Click the Load unpacked button and select the extension directory.
+
+
+
+## pull requests
+
+PRs are welcome but you have to use spaces not tabs because we are civilized
